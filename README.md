@@ -27,22 +27,22 @@ This project demonstrates a highly available and scalable web application deploy
 ## 📸 Screenshots
 
 ### 1. EC2 Instance Running
-Shows the base web server instance.
+![EC2 Instance](screenshots/1-ec2-instance-running.png)
 
 ### 2. Auto Scaling Group
-Shows active scaling configuration and desired capacity.
+![Auto Scaling Group](screenshots/2-asg-active.png)
 
 ### 3. Target Group
-Shows healthy instance registration.
+![Target Group](screenshots/3-target-group-healthy.png)
 
 ### 4. Load Balancer
-Shows active ALB distributing traffic.
+![Load Balancer](screenshots/4-load-balancer-active.png)
 
 ### 5. Website Output
-Final deployed web application accessed via ALB DNS.
+![Website Output](screenshots/5-website-alb-output.png)
 
 ### 6. AMI Created
-Custom image used for scaling EC2 instances.
+![AMI](screenshots/6-ami-created-web-server.png)
 
 ---
 
